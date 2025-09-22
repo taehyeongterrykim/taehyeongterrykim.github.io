@@ -1,4 +1,4 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
+
+# Keep Jekyll & allowed plugins aligned with GitHub Pages
+gem "github-pages", group: :jekyll_plugins

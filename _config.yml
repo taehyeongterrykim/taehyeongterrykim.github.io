@@ -1,4 +1,12 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "academic" # the name of your site, e.g. ACME Corp.
-description: "a Jekyll theme for academia"
+title: "Your Name"
+description: "Research • Teaching • Publications"
+url: "https://taehyeongterrykim.github.io"
+baseurl: ""   # user site must be empty
+
+# Collections, permalinks, etc. (minimal to start)
+markdown: kramdown
+
+# Optional defaults (use the theme's home layout if present)
+defaults:
+  - scope: { path: "" }
+    values: { layout: "home" }
