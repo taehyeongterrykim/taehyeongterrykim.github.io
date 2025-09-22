@@ -4,7 +4,7 @@ menu:
 - {name: 'teaching', url: '/teaching'}
 - {name: 'service', url: '/service'}
 - {name: 'training', url: '/training'}
-- {name: 'grant & awards', url: '/grant'}
+- {name: 'grant&nbsp;&amp;&nbsp;awards', url: '/grant'}
 - {name: 'contact', url: '/contact'}
 
 social:

@@ -1,15 +1,31 @@
-<header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
-  <div>
-    <a href="{{ '/' | relative_url }}" class="d-flex align-items-center text-decoration-none">
-      <span class="fs-4 fw-bold">{{ site.title }}</span>
-    </a>
-    <a href="{{ '/' | relative_url }}" class="d-flex align-items-center text-decoration-none">
-      <span>{{ site.description }}</span>
-    </a>
-  </div>
-  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
-    {% for item in site.data.settings.menu %}
-      <a class="me-3 py-2 text-decoration-none" href="{{ item.url | relative_url }}">{{ item.name }}</a>
-    {% endfor %}
+<header class="pb-3 mb-5 border-bottom">
+  <nav class="navbar navbar-expand-md navbar-light">
+    <!-- Brand (stacked: title on top, description below) -->
+    <div class="me-3">
+      <a class="navbar-brand fw-bold d-block" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      {% if site.description %}
+        <small class="text-muted d-block">{{ site.description }}</small>
+      {% endif %}
+    </div>
+
+    <!-- Hamburger (shows on < md) -->
+    <button class="navbar-toggler ms-auto" type="button"
+            data-bs-toggle="collapse" data-bs-target="#mainNav"
+            aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Links -->
+    <div class="collapse navbar-collapse" id="mainNav">
+      <ul class="navbar-nav ms-md-auto">
+        {% for item in site.data.settings.menu %}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ item.url | relative_url }}">
+              {{ item.name }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   </nav>
 </header>
