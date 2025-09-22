@@ -1,0 +1,45 @@
+<div class="row g-5 mb-5">
+  <div>
+    {%- if include.heading -%}
+      <h3 class="fw-bold border-bottom pb-3 mb-5">{{ include.heading }}</h3>
+    {%- endif -%}
+
+    {%- assign list = include.list -%}
+    {%- assign thumb_class = include.thumb_class -%}
+
+    {%- comment -%} links on/off (default: on) {%- endcomment -%}
+    {%- assign allow_links = include.link -%}
+    {%- if allow_links == nil -%}{% assign allow_links = true %}{%- endif -%}
+
+    {%- for item in list -%}
+      <div class="d-flex align-items-start gap-3 mb-4">
+
+        {%- if thumb_class and item.img -%}
+          {%- if allow_links and item.url -%}
+            <a href="{{ item.url }}">
+              <img src="{{ item.img | relative_url }}"
+                   alt="{{ item.alt | default: 'Journal cover' }}"
+                   class="{{ thumb_class }} rounded"
+                   loading="lazy" decoding="async">
+            </a>
+          {%- else -%}
+            <img src="{{ item.img | relative_url }}"
+                 alt="{{ item.alt | default: 'Journal cover' }}"
+                 class="{{ thumb_class }} rounded"
+                 loading="lazy" decoding="async">
+          {%- endif -%}
+        {%- endif -%}
+
+        <div class="flex-grow-1">
+          <p class="mb-0">
+            {%- if allow_links and item.url -%}
+              <a href="{{ item.url }}">{{ item.name }}</a>
+            {%- else -%}
+              {{ item.name }}
+            {%- endif -%}
+          </p>
+        </div>
+      </div>
+    {%- endfor -%}
+  </div>
+</div>

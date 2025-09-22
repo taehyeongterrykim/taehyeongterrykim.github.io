@@ -1,0 +1,4 @@
+url: ""      # override for local dev
+baseurl: ""  # keep empty for user sites
+github:
+  url: ""   # make all {{ site.github.url }}/... resolve to /... locally

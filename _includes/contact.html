@@ -1,0 +1,28 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
+    {% for contact in site.data.settings.contacts %}
+      <div class="row g-5 mb-5">
+        <div class="col-12">
+          <h3>{{ contact.name }}</h3><br>
+
+          {% if contact.title or contact.department %}
+            <p>
+              {{ contact.title }}{% if contact.title and contact.department %} | {% endif %}{{ contact.department }}
+            </p>
+          {% endif %}
+
+          {% if contact.institution or contact.institution_address %}
+            <p>
+              {{ contact.institution }}{% if contact.institution and contact.institution_address %} | {% endif %}{{ contact.institution_address }}
+            </p>
+          {% endif %}
+
+          {% if contact.phone %}<p>Phone: {{ contact.phone }}</p>{% endif %}
+          {% if contact.email %}<p>Email: {{ contact.email }}</p>{% endif %}
+          {% if contact.office %}<p>Office: {{ contact.office }}</p>{% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

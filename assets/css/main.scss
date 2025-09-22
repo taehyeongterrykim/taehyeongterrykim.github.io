@@ -1,0 +1,35 @@
+---
+---
+
+@import "main";
+
+
+/* Thumbnails for featured section (Home) */
+.pub-thumb-home {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Thumbnails for Research section (Index) */
+.pub-thumb-research {
+  width: 120px;  
+  height: 120px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Optional placeholder styling */
+.pub-thumb-home.placeholder,
+.pub-thumb-research.placeholder {
+  background: #e9ecef;
+}
+
+/* Home headshot sizing */
+.home-headshot {
+  max-width: 220px;  
+  width: 100%;
+  height: auto;
+  display: block;
+}

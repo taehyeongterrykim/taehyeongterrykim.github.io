@@ -1,0 +1,12 @@
+title: "Taehyeong Terry Kim"
+description: "A Ph.D. student in Applied Linguistics at Northern Arizona University"
+url: "https://taehyeongterrykim.github.io"
+baseurl: ""   # user site must be empty
+
+# Collections, permalinks, etc. (minimal to start)
+markdown: kramdown
+
+# Optional defaults (use the theme's home layout if present)
+defaults:
+  - scope: { path: "" }
+    values: { layout: "home" }

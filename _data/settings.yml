@@ -1,0 +1,17 @@
+menu:
+- { name: 'home', url: '/' }
+- {name: 'research', url: '/research'}
+- {name: 'teaching', url: '/teaching'}
+- {name: 'service', url: '/service'}
+- {name: 'training', url: '/training'}
+- {name: 'grant & awards', url: '/grant'}
+- {name: 'contact', url: '/contact'}
+
+social:
+- {icon: 'github', link: 'https://github.com/taehyeongterrykim'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0003-1115-2707'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Taehyeong-Kim-24'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/taehyeong-kim/'}
+
+contacts:
+- {name: 'Taehyeong Terry Kim', department: 'English, Applied Linguistics', institution: 'Northern Arizona University', email: 'tk654@nau.edu', office: 'Babbitt Academic Annex Room 330', image: 'assets/img/contact.jpg'}
