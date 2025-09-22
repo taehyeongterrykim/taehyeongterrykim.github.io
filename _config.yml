@@ -10,3 +10,7 @@ markdown: kramdown
 defaults:
   - scope: { path: "" }
     values: { layout: "home" }
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
