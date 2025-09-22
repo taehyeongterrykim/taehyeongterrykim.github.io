@@ -33,3 +33,12 @@
   height: auto;
   display: block;
 }
+
+/* Center headshot only on small screens */
+@media (max-width: 767.98px) {
+  .home-headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
