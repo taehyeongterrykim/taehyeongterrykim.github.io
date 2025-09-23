@@ -1,6 +1,7 @@
 ---
 layout: training
 title: "Training"
+description: "Training and expertise of Taehyeong Kim (Terry Kim), including workshops attended and skills in quantitative research methods, machine learning and programming."
 ---
 
 <p>

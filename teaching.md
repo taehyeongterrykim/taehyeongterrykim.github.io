@@ -1,6 +1,7 @@
 ---
 layout: teaching
 title: "Teaching"
+description: "Courses taught and lectures given by Taehyeong Kim (Terry Kim) at Northern Arizona University (NAU)."
 ---
 
 <h2 class="fw-bold border-bottom pb-2 mb-4">Teaching</h2>

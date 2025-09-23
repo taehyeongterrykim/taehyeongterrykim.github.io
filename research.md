@@ -1,6 +1,7 @@
 ---
 layout: research
 title: "Research"
+description: "Explore research by Taehyeong Kim (Terry Kim) at Northern Arizona University (NAU) in corpus linguistics, second language aquisition and research methods"
 ---
 
 <h2 class="fw-bold border-bottom pb-2 mb-4">Publications</h2>

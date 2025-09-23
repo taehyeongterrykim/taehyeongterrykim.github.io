@@ -1,6 +1,7 @@
 ---
 layout: grant
 title: "Grant"
+description: "Grants and funding awarded to Taehyeong Kim (Terry Kim) at Northern Arizona University (NAU)."
 ---
 
 <h2 class="fw-bold border-bottom pb-2 mb-4">Grant & Award</h2>

@@ -1,6 +1,7 @@
 ---
 layout: service
 title: "Service"
+description: "Academic and professional service by Taehyeong Kim (Terry Kim), including peer review, conference organization, and community engagement at Northern Arizona University (NAU)."
 ---
 
 <h2 class="fw-bold border-bottom pb-3 mb-4">Service</h2>
