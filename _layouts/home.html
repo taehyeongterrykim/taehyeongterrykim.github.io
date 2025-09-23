@@ -17,11 +17,28 @@ layout: default
    list=site.data.research.featured
    thumb_class="pub-thumb-home" %}
 
-<div class="row g-5 mb-5">
-  <div class="col-md-12">
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3>
-    {% for post in site.posts %}
-      <p><a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p>
-    {% endfor %}
+<div class="mb-5">
+  <h3 class="fw-bold border-bottom pb-3 mb-3">Updates</h3>
+  <div class="card shadow-sm">
+    <div class="card-body">
+      <h5 class="card-title">Key lexical bundles</h5>
+      <p class="card-text">
+        
+      </p>
+      <!-- GitHub star button -->
+      <iframe
+        src="https://ghbtns.com/github-btn.html?user=taehyeongterrykim&repo=key-lexical-bundles&type=star&count=true&size=large"
+        frameborder="0"
+        scrolling="0"
+        width="170"
+        height="30"
+        title="GitHub">
+      </iframe>
+      <br><br>
+      <a href="https://github.com/taehyeongterrykim/key-lexical-bundles" 
+         class="btn btn-primary" target="_blank">
+         View on GitHub
+      </a>
+    </div>
   </div>
 </div>
