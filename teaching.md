@@ -8,6 +8,15 @@ description: "Courses taught and lectures given by Taehyeong Kim (Terry Kim) at 
 
 <p><strong>Department of English, Northern Arizona University</strong></p>
 
+<p><em>Spring 2026 — Graduate Teaching Assistant</em><br>
+ENG 678:  Topics in ESL: Intermediate Statistics for Applied Linguistics </p>
+
+<p><em>Fall 2024 — Graduate Teaching Assistant</em><br>
+ENG 668: Research Methods in Applied Linguistics</p>
+
+<p><em>Summer 2024 — Instructor of Record (Shanghai Normal University, Tianhua College) </em><br>
+ENG 559: ESL Methods and Materials: Reading and Writing</p>
+
 <p><em>Fall 2023–Spring 2024 — Instructor of Record </em><br>
 ENG 405: Writing Commons: Writing, Research, Design Presentation</p>
 
@@ -16,15 +25,6 @@ ENG 105: Critical Reading and Writing in the University</p>
 
 <p><em>Fall 2023–Spring 2024 — Instructor of Record</em><br>
 ENG 100: English Composition: Writing Center</p>
-
-<p><em>Summer 2024 — Instructor of Record (Shanghai Normal University, Tianhua College) </em><br>
-ENG 559: ESL Methods and Materials: Reading and Writing</p>
-
-<p><em>Fall 2024 — Graduate Teaching Assistant</em><br>
-ENG 668: Research Methods in Applied Linguistics</p>
-
-<p><em>Spring 2026 — Graduate Teaching Assistant</em><br>
-ENG 678:  Topics in ESL: Intermediate Statistics for Applied Linguistics </p>
 
 <p class="mt-4"><strong>Department of English Language Education, Seoul National University</strong></p>
 

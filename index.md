@@ -4,9 +4,9 @@ title: "Home"
 description: "Taehyeong Kim (Terry Kim), Ph.D. student in Applied Linguistics at Northern Arizona University (NAU). Research in quantitative methods, corpus linguistics, and second language acquisition."
 ---
 
-Hi, I am Taehyeong Kim (Terry Kim), a Ph.D. student in Applied Linguistics at Northern Arizona University (NAU). I received an M.A. in English Language Education from Seoul National University, and a B.A. in English Language and Literature from Yonsei University, Korea. 
+Hi, I am Taehyeong Kim (Terry Kim), a Ph.D. student in Applied Linguistics at Northern Arizona University (NAU). I have an M.A. in English Language Education from Seoul National University, and a B.A. in English Language and Literature from Yonsei University. 
 
-My research interests include quantitative research methods and corpus linguistics in relation to second language acquisition, linguistic complexity, and register variation. I am interested in advancing our understanding of second language production, grounded in linguistically interpretable account of language and motivated by a theoretical and functional basis. I am also interested in contributing to methodological advancements in the field, advances driven by a sound methodological understanding and decision-making.
+My research interests include quantitative research methods and corpus linguistics, specifically in relation to how these are applied to topics pertaining to second language acquisition, linguistic complexity, and register variation. I am interested in advancing our understanding of second language production, while using methods that are linguistically interpretable and well motivated theoretically and functionally.
 
 Email: tk654@nau.edu <br>
 <a href="https://scholar.google.com/citations?hl=en&user=4syVIgIAAAAJ&view_op=list_works" target="_blank" rel="noopener">Google scholar</a>
