@@ -10,6 +10,14 @@ layout: default
   <div class="flex-grow-1">
     <h3 class="fw-bold">Research interests</h3>
     {{ content }}
+
+    <div class="social-media-icons mt-1">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="me-3 fs-5 text-decoration-none text-dark">
+          <i class="fab fa-{{ item.icon }}"></i>
+        </a>
+      {% endfor %}
+    </div>
   </div>
 </div>
 
