@@ -15,6 +15,7 @@ description: "Academic and professional service by Taehyeong Kim (Terry Kim), in
 <em><a href="https://sfleducation.springeropen.com/" target="_blank" rel="noopener">Asian-Pacific Journal of Second and Foreign Language Education</a></em><br>
 <em><a href="https://www.jbe-platform.com/content/journals/25429485" target="_blank" rel="noopener">Register Studies</a></em><br> 
 <em><a href="https://www.cambridge.org/core/journals/studies-in-second-language-acquisition" target="_blank" rel="noopener">Studies in Second Language Acquisition</a></em><br>
+<em><a href="https://academic.oup.com/applij" target="_blank" rel="noopener">Applied Linguistics</a></em><br>
 <em><a href="https://onlinelibrary.wiley.com/journal/14679922" target="_blank" rel="noopener">Language Learning</a></em> (co-reviewed with Dr. Tove Larsson) <br> 
 <em><a href="https://www.tandfonline.com/journals/uaai20" target="_blank" rel="noopener">Applied Artificial Intelligence</a></em> (co-reviewed with Dr. Tove Larsson)
 </p>
