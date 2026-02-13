@@ -20,7 +20,7 @@
           {%- assign obj_pos = item.object_position | default: "50% 50%" -%}
 
           {%- if allow_links and item.url -%}
-            <a href="{{ item.url }}">
+            <a href="{{ item.url }}" class="flex-shrink-0 d-block">
               <img src="{{ item.img | relative_url }}"
                    alt="{{ item.alt | default: 'Journal cover' }}"
                    class="{{ thumb_class }} rounded"
@@ -31,7 +31,7 @@
           {%- else -%}
             <img src="{{ item.img | relative_url }}"
                  alt="{{ item.alt | default: 'Journal cover' }}"
-                 class="{{ thumb_class }} rounded"
+                 class="{{ thumb_class }} rounded flex-shrink-0"
                  style="object-position: {{ obj_pos }};"
                  loading="lazy"
                  decoding="async">
