@@ -9,24 +9,32 @@
 
     {%- comment -%} links on/off (default: on) {%- endcomment -%}
     {%- assign allow_links = include.link -%}
-    {%- if allow_links == nil -%}{% assign allow_links = true %}{%- endif -%}
+    {%- if allow_links == nil -%}
+      {%- assign allow_links = true -%}
+    {%- endif -%}
 
     {%- for item in list -%}
       <div class="d-flex align-items-start gap-3 mb-4">
 
         {%- if thumb_class and item.img -%}
+          {%- assign obj_pos = item.object_position | default: "50% 50%" -%}
+
           {%- if allow_links and item.url -%}
             <a href="{{ item.url }}">
               <img src="{{ item.img | relative_url }}"
                    alt="{{ item.alt | default: 'Journal cover' }}"
                    class="{{ thumb_class }} rounded"
-                   loading="lazy" decoding="async">
+                   style="object-position: {{ obj_pos }};"
+                   loading="lazy"
+                   decoding="async">
             </a>
           {%- else -%}
             <img src="{{ item.img | relative_url }}"
                  alt="{{ item.alt | default: 'Journal cover' }}"
                  class="{{ thumb_class }} rounded"
-                 loading="lazy" decoding="async">
+                 style="object-position: {{ obj_pos }};"
+                 loading="lazy"
+                 decoding="async">
           {%- endif -%}
         {%- endif -%}
 
@@ -39,6 +47,7 @@
             {%- endif -%}
           </p>
         </div>
+
       </div>
     {%- endfor -%}
   </div>
