@@ -6,7 +6,7 @@ description: "Explore research by Taehyeong Kim (Terry Kim) at Northern Arizona 
 
 <h2 class="fw-bold border-bottom pb-2 mb-4">Publications</h2>
 
-<h3 class="fw-semibold mt-4 mb-3">Published</h3>
+<h3 class="fw-semibold mt-4 mb-3">Published/Forthcoming</h3>
 {% include research.html
    list=site.data.research.published
    thumb_class="pub-thumb-research"
