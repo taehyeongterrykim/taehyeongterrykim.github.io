@@ -12,6 +12,7 @@ description: "Academic and professional service by Taehyeong Kim (Terry Kim), in
 <p><strong> Student liaison</strong>, <a href="https://sites.google.com/nau.edu/naugsaal/home?authuser=0" target="_blank" rel="noopener"> NAU Graduate Student Association of Applied Linguistics (GSAAL)</a></p>
 
 <p><strong> Manuscript reviewers: </strong><br>
+<em><a href="https://benjamins.com/catalog/ijlcr?srsltid=AfmBOor1lAzt5f-Q6bAhCE_zaCGylFrzWr6DDPW9suY5SeN7GFYPQbt8" target="_blank" rel="noopener">International Journal of Learner Corpus Research</a></em><br>
 <em><a href="https://sfleducation.springeropen.com/" target="_blank" rel="noopener">Asian-Pacific Journal of Second and Foreign Language Education</a></em><br>
 <em><a href="https://www.jbe-platform.com/content/journals/25429485" target="_blank" rel="noopener">Register Studies</a></em><br> 
 <em><a href="https://www.cambridge.org/core/journals/studies-in-second-language-acquisition" target="_blank" rel="noopener">Studies in Second Language Acquisition</a></em><br>
