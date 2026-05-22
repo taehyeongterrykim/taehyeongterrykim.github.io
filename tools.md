@@ -19,7 +19,7 @@ description: "Tools developed by Taehyeong Kim (Terry Kim) at Northern Arizona U
       posLD is a natural language processing tool that computes lexical diversity using Moving-Average Type-Token Ratio (MATTR) across part-of-speech categories — specifically verbs and nouns — for corpus linguistics research. posLD allows researchers to examine how lexical diversity varies across word classes.
     </p>
 
-    <h6 class="fw-semibold mt-4 mb-2">Cite as</h6>
+    <h6 class="fw-semibold mt-4 mb-2">Citation</h6>
     <p class="card-text">
       Kim, T., Larsson, T., Kaatari, H., Wang, Y., &amp; Sundqvist, P. (2026). Introducing and evaluating a measure of lexical diversity across word classes. <em>TESOL Quarterly</em>. Advance online publication. <a href="https://doi.org/10.1002/tesq.70154" target="_blank" rel="noopener">https://doi.org/10.1002/tesq.70154</a>
     </p>
