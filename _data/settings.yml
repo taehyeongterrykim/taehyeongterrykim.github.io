@@ -1,6 +1,7 @@
 menu:
 - { name: 'home', url: '/' }
 - {name: 'research', url: '/research'}
+- {name: 'tools', url: '/tools'}
 - {name: 'teaching', url: '/teaching'}
 - {name: 'service', url: '/service'}
 - {name: 'training', url: '/training'}
