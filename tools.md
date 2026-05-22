@@ -10,7 +10,7 @@ description: "Tools developed by Taehyeong Kim (Terry Kim) at Northern Arizona U
     <div class="d-flex align-items-center gap-3 mb-3">
       <img src="/assets/img/posld_icon.png" alt="posLD icon" style="width: 72px; height: 72px; border-radius: 16px;">
       <div>
-        <h3 class="card-title fw-bold mb-0">posLD <span class="badge bg-secondary fw-normal fs-6 align-middle">v1.0.0</span></h3>
+        <h3 class="card-title fw-bold mb-0">posLD <span class="badge bg-secondary fw-normal fs-6 align-middle">v0.1.1</span></h3>
         <p class="text-muted mb-0">Part-of-speech-specific Lexical Diversity</p>
       </div>
     </div>
