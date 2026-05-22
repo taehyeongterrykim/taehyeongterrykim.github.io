@@ -10,13 +10,13 @@ description: "Tools developed by Taehyeong Kim (Terry Kim) at Northern Arizona U
     <div class="d-flex align-items-center gap-3 mb-3">
       <img src="/assets/img/posld_icon.png" alt="posLD icon" style="width: 72px; height: 72px; border-radius: 16px;">
       <div>
-        <h3 class="card-title fw-bold mb-0">posLD</h3>
+        <h3 class="card-title fw-bold mb-0">posLD <span class="badge bg-secondary fw-normal fs-6 align-middle">v1.0.0</span></h3>
         <p class="text-muted mb-0">Part-of-speech-specific Lexical Diversity</p>
       </div>
     </div>
 
     <p class="card-text">
-      posLD computes lexical diversity using Moving-Average Type-Token Ratio (MATTR) across part-of-speech categories — specifically verbs and nouns — for corpus linguistics research. posLD allows researchers to examine how lexical diversity varies across word classes.
+      posLD is a natural language processing tool that computes lexical diversity using Moving-Average Type-Token Ratio (MATTR) across part-of-speech categories — specifically verbs and nouns — for corpus linguistics research. posLD allows researchers to examine how lexical diversity varies across word classes.
     </p>
 
     <h6 class="fw-semibold mt-4 mb-2">Cite as</h6>
