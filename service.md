@@ -12,15 +12,16 @@ description: "Academic and professional service by Taehyeong Kim (Terry Kim), in
 <p><strong> Student liaison</strong>, <a href="https://sites.google.com/nau.edu/naugsaal/home?authuser=0" target="_blank" rel="noopener"> NAU Graduate Student Association of Applied Linguistics (GSAAL)</a></p>
 
 <p><strong> Manuscript reviewers: </strong><br>
-<em><a href="https://www.sciencedirect.com/journal/journal-of-english-for-academic-purposes" target="_blank" rel="noopener">Journal of English for Academic Purposes </a></em><br>
-<em><a href="https://www.sciencedirect.com/journal/applied-corpus-linguistics" target="_blank" rel="noopener">Applied Corpus Linguistics</a></em><br>
-<em><a href="https://benjamins.com/catalog/ijlcr?srsltid=AfmBOor1lAzt5f-Q6bAhCE_zaCGylFrzWr6DDPW9suY5SeN7GFYPQbt8" target="_blank" rel="noopener">International Journal of Learner Corpus Research</a></em><br>
-<em><a href="https://sfleducation.springeropen.com/" target="_blank" rel="noopener">Asian-Pacific Journal of Second and Foreign Language Education</a></em><br>
-<em><a href="https://www.jbe-platform.com/content/journals/25429485" target="_blank" rel="noopener">Register Studies</a></em><br> 
-<em><a href="https://www.cambridge.org/core/journals/studies-in-second-language-acquisition" target="_blank" rel="noopener">Studies in Second Language Acquisition</a></em><br>
-<em><a href="https://academic.oup.com/applij" target="_blank" rel="noopener">Applied Linguistics</a></em><br>
-<em><a href="https://onlinelibrary.wiley.com/journal/14679922" target="_blank" rel="noopener">Language Learning</a></em> (co-reviewed with Dr. Tove Larsson) <br> 
-<em><a href="https://www.tandfonline.com/journals/uaai20" target="_blank" rel="noopener">Applied Artificial Intelligence</a></em> (co-reviewed with Dr. Tove Larsson)
+<em>Studies in Second Language Acquisition</em><br>
+<em>Applied Linguistics</em><br>
+<em>International Journal of Corpus Linguistics </em><br>
+<em>Journal of English for Academic Purposes </em><br>
+<em>Applied Corpus Linguistics</em><br>
+<em>International Journal of Learner Corpus Research</em><br>
+<em>Asian-Pacific Journal of Second and Foreign Language Education</em><br>
+<em>Register Studies</em><br> 
+<em>Language Learning</em> (co-reviewed with Dr. Tove Larsson) <br> 
+<em>Applied Artificial Intelligence</em> (co-reviewed with Dr. Tove Larsson)
 </p>
 
 <p><strong> Abstract reviewers: </strong><br>

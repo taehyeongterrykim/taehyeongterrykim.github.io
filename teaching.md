@@ -8,8 +8,11 @@ description: "Courses taught and lectures given by Taehyeong Kim (Terry Kim) at 
 
 <p><strong>Department of English, Northern Arizona University</strong></p>
 
+<p><em>Fall 2026 — Graduate Teaching Assistant</em><br>
+ENG 121: The Story of English </p>
+
 <p><em>Spring 2026 — Graduate Teaching Assistant</em><br>
-ENG 678:  Topics in ESL: Intermediate Statistics for Applied Linguistics </p>
+ENG 678: Topics in ESL: Intermediate Statistics for Applied Linguistics </p>
 
 <p><em>Fall 2024 — Graduate Teaching Assistant</em><br>
 ENG 668: Research Methods in Applied Linguistics</p>
