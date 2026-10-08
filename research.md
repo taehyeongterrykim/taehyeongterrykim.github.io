@@ -10,21 +10,22 @@ description: "Explore research by Taehyeong Kim (Terry Kim) at Northern Arizona 
 {% include research.html
    list=site.data.research.published
    thumb_class="pub-thumb-research"
-   link=true %}
+   link=true
+   hanging=true %}
 
 <h3 class="fw-semibold mt-4 mb-3">Under review</h3>
-{% include research.html list=site.data.research.under_review link=false %}
+{% include research.html list=site.data.research.under_review link=false hanging=true %}
 
 <h3 class="fw-semibold mt-4 mb-3">In preparation</h3>
-{% include research.html list=site.data.research.work_in_progress link=false %}
+{% include research.html list=site.data.research.work_in_progress link=false hanging=true %}
 
-<h2 class="fw-bold border-bottom pb-2 mb-4">Participation in grant-funded research projects</h2>
+<h2 class="fw-bold border-bottom pb-2 mt-5 mb-4">Participation in grant-funded research projects</h2>
 
 <p><strong>Research assistantship</strong>: <a href="https://sites.google.com/view/compleexity/home?authuser=0" target="_blank" rel="noopener">The ComplEExity Project:</a> Swedish secondary school students’ use of Extramural English (EE) and its impact on L2 writing development<br>
 Funded by the Bank of Sweden Tercentenary Foundation</p>
 
 <h2 class="fw-bold border-bottom pb-2 mt-5 mb-4">Peer-reviewed conference presentations</h2>
-{% include research.html list=site.data.research.peer_reviewed_conferences link=false %}
+{% include research.html list=site.data.research.peer_reviewed_conferences link=false hanging=true %}
 
 <h2 class="fw-bold border-bottom pb-2 mt-5 mb-4">Invited talks and workshop</h2>
-{% include research.html list=site.data.research.invited_talks link=false %}
+{% include research.html list=site.data.research.invited_talks link=false hanging=true %}

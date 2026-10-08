@@ -39,7 +39,7 @@
         {%- endif -%}
 
         <div class="flex-grow-1">
-          <p class="mb-0">
+          <p class="mb-0{% if include.hanging %} hanging-indent{% endif %}">
             {%- if allow_links and item.url -%}
               <a href="{{ item.url }}">{{ item.name }}</a>
             {%- else -%}

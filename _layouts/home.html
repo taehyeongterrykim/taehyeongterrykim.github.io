@@ -8,7 +8,7 @@ layout: default
     alt="Taehyeong Kim (Terry Kim), Ph.D. student at Northern Arizona University (NAU)"
     class="img-fluid home-headshot mb-3 mb-md-0 me-md-3">
   <div class="flex-grow-1">
-    <h3 class="fw-bold">Research interests</h3>
+    <h3 class="section-heading mb-3">Research interests</h3>
     {{ content }}
 
     <div class="social-media-icons mt-1">
@@ -32,10 +32,36 @@ endcomment
 %}
 
 <div class="mb-5">
-  <h3 class="fw-bold border-bottom pb-3 mb-3">Python & R Projects</h3>
+  <h3 class="section-heading mb-3">Python & R Projects</h3>
   <div class="card shadow-sm">
     <div class="card-body">
-      <h5 class="card-title">Key lexical bundles</h5>
+      <div class="d-flex align-items-center gap-3 mb-3">
+        <img src="{{ '/assets/img/posld_icon.png' | relative_url }}" alt="posLD icon" style="width: 56px; height: 56px; border-radius: 12px;">
+        <h5 class="card-title project-title mb-0">posLD</h5>
+      </div>
+      <p class="card-text">
+        posLD is a natural language processing tool that computes lexical diversity using Moving-Average Type-Token Ratio (MATTR) across part-of-speech categories — specifically verbs and nouns — for corpus linguistics research. posLD allows researchers to examine how lexical diversity varies across word classes (Kim, Larsson, Kaatari, Wang, & Sundqvist, 2026).
+      </p>
+      <div class="d-flex flex-wrap gap-3">
+        <div>
+          <a href="https://drive.google.com/file/d/1WoB9ql-k4h0V1iag6_LMxBkBBWYYRRZ6/view" class="btn btn-primary" target="_blank" rel="noopener">
+            <i class="fab fa-apple me-1"></i> Download for macOS
+          </a>
+          <p class="text-muted small mt-1 mb-0">macOS (M1/M2/M3, macOS 10.15+)<br>Unzip → double-click posLD.app</p>
+        </div>
+        <div>
+          <a href="https://drive.google.com/file/d/1IIAKQIijlWY1kOSM6fZvaW-ggBs5s5xw/view" class="btn btn-primary" target="_blank" rel="noopener">
+            <i class="fab fa-windows me-1"></i> Download for Windows
+          </a>
+          <p class="text-muted small mt-1 mb-0">Windows (64-bit, Windows 10+)<br>Unzip → double-click posLD.exe</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card shadow-sm">
+    <div class="card-body">
+      <h5 class="card-title project-title">Key lexical bundles</h5>
       <p class="card-text">
         Python code for for running key lexical bundles analysis (Larsson, Kim & Egbert, 2025).
       </p>
@@ -58,7 +84,7 @@ endcomment
 
   <div class="card shadow-sm">
     <div class="card-body">
-      <h5 class="card-title">Key feature analysis</h5>
+      <h5 class="card-title project-title">Key feature analysis</h5>
       <p class="card-text">
         R package for running key feature analysis to identify lexico-grammatical features that distinguish target and reference corpora (Egbert & Biber, 2023).
       </p>
