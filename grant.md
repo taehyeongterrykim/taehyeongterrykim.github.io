@@ -15,7 +15,7 @@ description: "Grants and funding awarded to Taehyeong Kim (Terry Kim) at Norther
 </table>
 <p class="mt-4 mb-2"><strong><em>Northern Arizona University</em></strong></p>
 <table class="table table-borderless table-sm">
-  <tr><td>Stoller-Grabe-Jarvis Travel Award, Northern Arizona University</td><td class="text-end text-nowrap" style="width: 8rem;">2026</td></tr>
+  <tr><td>Stoller-Grabe-Jarvis Travel Award</td><td class="text-end text-nowrap" style="width: 8rem;">2026</td></tr>
   <tr><td>Graduate Student Government Professional Development Award</td><td class="text-end text-nowrap" style="width: 8rem;">2026</td></tr>
   <tr><td>Graduate Student Association of Applied Linguistics Travel Grant</td><td class="text-end text-nowrap" style="width: 8rem;">2026</td></tr>
   <tr><td>Graduate Teaching Assistantship</td><td class="text-end text-nowrap" style="width: 8rem;">2026</td></tr>
@@ -37,6 +37,6 @@ description: "Grants and funding awarded to Taehyeong Kim (Terry Kim) at Norther
 <table class="table table-borderless table-sm">
   <tr><td>Veritas Scholarship for Academic Excellence</td><td class="text-end text-nowrap" style="width: 8rem;">Spring 2017</td></tr>
   <tr><td>Veritas Scholarship for Academic Excellence</td><td class="text-end text-nowrap" style="width: 8rem;">Spring 2016</td></tr>
-  <tr><td>Highest honors for Academic Excellence, Yonsei University (Top 1%)</td><td class="text-end text-nowrap" style="width: 8rem;">2017</td></tr>
-  <tr><td>High honors for Academic Excellence, Yonsei University (Top 3%)</td><td class="text-end text-nowrap" style="width: 8rem;">2016</td></tr>
+  <tr><td>Highest honors for Academic Excellence (Top 1%)</td><td class="text-end text-nowrap" style="width: 8rem;">2017</td></tr>
+  <tr><td>High honors for Academic Excellence (Top 3%)</td><td class="text-end text-nowrap" style="width: 8rem;">2016</td></tr>
 </table>
