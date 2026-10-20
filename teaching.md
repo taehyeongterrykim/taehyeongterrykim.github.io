@@ -37,12 +37,22 @@ ENG 100: English Composition: Writing Center</p>
 707.404A: Materials Evaluation and Development in Teaching English as a Foreign Language</p><br>
 
 <h2 class="fw-bold border-bottom pb-2 mb-4">Guest lectures</h2>
-<p>Kim, T. (2025, January 24). Confidence intervals. Coffee & Cronbach, Northern Arizona University, Flagstaff, Arizona.</p>
+<p>Kim, T. (2026, October 19). <em>Key-feature analysis</em>. Invited Lecture in ENG668 (Research Methods in Applied Linguistics), Northern Arizona University, Flagstaff, AZ, USA.</p>
 
-<p>Kim, T. (2024, October 24). <em>ANOVA on R</em>. ENG688: Research Methods in Applied Linguistics (Fall 2024), Northern Arizona University, Flagstaff, Arizona.</p>
+<p>Kim, T. (2026, April 14). <em>Some considerations and steps in developing a quantitative measure</em>. Guest Talk in Corpus Lab, Northern Arizona University, Flagstaff, AZ, USA.</p>
 
-<p>Kim, T. (2024, October 22). <em>Analysis of Variance (ANOVA)</em>. ENG688: Research Methods in Applied Linguistics (Fall 2024), Northern Arizona University, Flagstaff, Arizona.</p>
+<p>Kim, T. (2026, April 14). <em>Measured variable path analysis</em>. Invited Lecture in ENG678 (Intermediate Statistics for Applied Linguistics), Northern Arizona University, Flagstaff, AZ, USA.</p>
 
-<p>Kim, T. (2024, October 8). <em>Key-feature analysis</em>. ENG688: Research Methods in Applied Linguistics (Fall 2024), Northern Arizona University, Flagstaff, Arizona.</p>
+<p>Kim, T. (2026, April 10). <em>Register and Linguistic Complexity</em>. Invited Lecture in ENG220 (English Grammar and Usage), Northern Arizona University, Flagstaff, AZ, USA.</p>
 
-<p>Kim, T. (2024, April 10). <em>Key-feature analysis</em>. ENG688: Research Methods in Applied Linguistics (Spring 2024), Northern Arizona University, Flagstaff, Arizona.</p>
+<p>Kim, T. (2025, April). <em>Conducting literature review for cumulative knowledge building</em>. Invited lecture in ENG709 (Seminar in corpus linguistics), Northern Arizona University, Flagstaff, AZ, USA.</p>
+
+<p>Kim, T. (2025, January 24). <em>Confidence intervals</em>. Coffee & Cronbach, Northern Arizona University, Flagstaff, AZ, USA.</p>
+
+<p>Kim, T. (2024, October 24). <em>ANOVA on R</em>. ENG668: Research Methods in Applied Linguistics (Fall 2024), Northern Arizona University, Flagstaff, AZ, USA.</p>
+
+<p>Kim, T. (2024, October 22). <em>Analysis of Variance (ANOVA)</em>. ENG668: Research Methods in Applied Linguistics (Fall 2024), Northern Arizona University, Flagstaff, AZ, USA.</p>
+
+<p>Kim, T. (2024, October 8). <em>Key-feature analysis</em>. ENG668: Research Methods in Applied Linguistics (Fall 2024), Northern Arizona University, Flagstaff, AZ, USA.</p>
+
+<p>Kim, T. (2024, April 10). <em>Key-feature analysis</em>. ENG668: Research Methods in Applied Linguistics (Spring 2024), Northern Arizona University, Flagstaff, AZ, USA.</p>
